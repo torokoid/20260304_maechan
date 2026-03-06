@@ -192,7 +192,7 @@ p.note { display: none; }
 <a href="20260304_011.JPG" target="_blank"><img src="20260304_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260304_012.JPG" target="_blank"><img src="20260304_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">パパイヤも実りました</span></h2>
+<h2><span class="yellow">ココアの実も見事に実りました</span></h2>
 <a href="20260304_013.JPG" target="_blank"><img src="20260304_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260304_014.JPG" target="_blank"><img src="20260304_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 
