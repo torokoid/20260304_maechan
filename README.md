@@ -479,7 +479,7 @@ p.note { display: none; }
 <a href="20260304_126.JPG" target="_blank"><img src="20260304_126.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260304_127.JPG" target="_blank"><img src="20260304_127.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">久しぶりに来たドリーム・プール・かわちの上にお月様が浮かびました</span></h2>
+<h2><span class="yellow">久しぶりに来たドリーム・プール・かわちの上に月齢15.4のお月様が浮かびました</span></h2>
 <a href="20260304_128.JPG" target="_blank"><img src="20260304_128.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <!--
